@@ -4,8 +4,6 @@
 
 O **Xbox Sales Hub** é uma planilha que centraliza dados, análises e visualizações sobre as vendas de assinaturas do Xbox Game Pass. A ferramenta tem como objetivo fornecer uma visão clara do desempenho das vendas, dos tipos de assinaturas e dos complementos adquiridos, facilitando a tomada de decisão.
 
-![Visão Geral do Dashboard](project_image.png)
-
 ## Estrutura da Planilha
 
 O arquivo contém as seguintes abas:
@@ -59,3 +57,5 @@ A planilha tem como finalidade permitir o acompanhamento das vendas de assinatur
 1. Atualize os dados de vendas na aba **Bases**.
 2. Verifique e ajuste os cálculos na aba **Cálculos**, se necessário.
 3. A aba **Dashboard** se atualizará automaticamente, refletindo as alterações feitas nos dados.
+
+![Visão Geral do Dashboard](project_image.png)
