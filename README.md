@@ -58,4 +58,10 @@ A planilha tem como finalidade permitir o acompanhamento das vendas de assinatur
 2. Verifique e ajuste os cálculos na aba **Cálculos**, se necessário.
 3. A aba **Dashboard** se atualizará automaticamente, refletindo as alterações feitas nos dados.
 
-![Visão Geral do Dashboard](project_image.png)
+![Visão Geral do Dashboard](project_img.png)
+
+---
+
+## Autor
+
+Feito com 💜 por Shayare 🐈
